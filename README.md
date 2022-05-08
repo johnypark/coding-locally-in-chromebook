@@ -13,3 +13,9 @@ One way - add an alias of anaconda in the ```/user/bin``` directory.
 sudo ln -s /path/to/anaconda/ /usr/bin
 ```
 
+# Install VScode
+Download debian version from the official website
+```
+sudo apt install ./code_1.67.0-1651667246_amd64.deb 
+```
+
