@@ -9,5 +9,7 @@ download debian version and do ``` mv filename install.sh ```. Then run the comm
 
 # set PATH for conda
 One way - add an alias of anaconda in the ```/user/bin``` directory.
-``` sudo ln -s /path/to/anaconda/ /usr/bin
+``` 
+sudo ln -s /path/to/anaconda/ /usr/bin
+```
 
